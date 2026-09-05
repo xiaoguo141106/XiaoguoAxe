@@ -1,25 +1,30 @@
+# Xiaoguo's Axe
 
-Installation information
-=======
+一把比下界合金斧更强、自带火焰附加和横扫之刃的远古双头战斧。
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+## 功能特性
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+- 🪓 攻击伤害：14（比下界合金斧高 4 点）
+- 🔥 自带火焰附加 II（攻击使目标燃烧 3 秒）
+- ⚔️ 自带横扫之刃 III
+- 🛡️ 耐久度：8192（下界合金斧的 4 倍）
+- 🔥 耐火属性（不会在火焰或熔岩中消失）
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+## 下载
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+- [CurseForge](你的链接)
+- [Modrinth](你的链接)
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+## 依赖
+
+- Minecraft 26.2
+- NeoForge 26.2.0.75
+
+## 使用
+
+在创造模式的物品栏中搜索 `immortal_blade`，或使用指令：`/give @s xiaoguosaxe:immortal_blade`
+
+
+## 许可证
+
+本项目采用 GNU AGPL-3.0 协议。详见 [LICENSE](LICENSE) 文件。
