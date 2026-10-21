@@ -23,6 +23,9 @@ version="${mod_version}" #mandatory
 # A display name for the mod
 displayName="${mod_name}" #mandatory
 
+# The authors of the mod, displayed in the mod UI (optional)
+authors="Xiaoguo"
+
 # A URL to query for updates for this mod. See the JSON update specification https://docs.neoforged.net/docs/misc/updatechecker/
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 
@@ -35,12 +38,9 @@ displayName="${mod_name}" #mandatory
 # A text field displayed in the mod UI
 #credits="" #optional
 
-# The authors of the mod, displayed in the mod UI (optional)
-#authors=""
-
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Example mod description.
+Xiaoguo's Axe - adds the Immortal Blade, a powerful ancient battle-axe with greatly increased durability.
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
