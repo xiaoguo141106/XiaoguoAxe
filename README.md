@@ -30,10 +30,10 @@
 - **模组代码**（`src/main/java/`）：GNU AGPL-3.0 协议。详见 [LICENSE](LICENSE) 文件。
 - **美术资源**（`src/main/resources/assets/xiaoguosaxe/` 下全部资源，包括但不限于纹理
   `textures/`、物品模型 JSON `models/item/`、客户端物品定义 `items/`、语言文件 `lang/`）：
-  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
+  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
   （法律文本全文见 [TEXTURE_LICENSE.txt](TEXTURE_LICENSE.txt)）
-  - 署名 — 非商业性使用 — 相同方式共享 4.0 国际
-  - 人类可读版摘要：[CC BY-NC-SA 4.0 Deed](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+  - 署名 — 相同方式共享 4.0 国际
+  - 人类可读版摘要：[CC BY-SA 4.0 Deed](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ## 贡献
 
