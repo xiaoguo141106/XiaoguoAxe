@@ -1,4 +1,4 @@
-# Xiaoguo's Axe
+# Immortal Battle Axe
 
 一把比下界合金斧更强、自带火焰附加和横扫之刃的远古双头战斧。
 

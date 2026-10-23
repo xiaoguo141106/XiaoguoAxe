@@ -40,7 +40,7 @@ authors="Xiaoguo"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Xiaoguo's Axe - adds the Immortal Blade, a powerful ancient battle-axe with greatly increased durability.
+Immortal Battle Axe - adds the Immortal Battle Axe, a powerful ancient battle-axe with greatly increased durability.
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
